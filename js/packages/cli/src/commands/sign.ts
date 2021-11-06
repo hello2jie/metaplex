@@ -30,7 +30,7 @@ async function signWithRetry(
         creatorKeyPair.publicKey,
       ),
     ],
-    [],
+    [creatorKeyPair],
     'single',
   );
 }
