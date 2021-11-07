@@ -1,8 +1,8 @@
 {
-  "name": "Super Rare NFT",
-  "image": "Super-Rare.png",
+  "name": "Test NFT #3",
+  "image": "test-3.png",
   "symbol": "evogra",
-  "description": "Super Rare NFT",
+  "description": "Test NFT #3",
   "seller_fee_basis_points": 0,
   "external_url": "https://evogra.de",
   "attributes": [
@@ -26,7 +26,7 @@
   "properties": {
     "files": [
       {
-        "uri": "Super-Rare.png",
+        "uri": "test-3.png",
         "type": "image/png"
       }
     ],
